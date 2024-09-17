@@ -30,8 +30,13 @@ The app includes a User Profile section where users can log in and manage their 
 Users can easily log out using the sidebar menu, which also offers quick navigation to different sections.
 
 **4) Technical Features**
+
 **Flutter Framework:** The app is built using the Flutter framework, ensuring cross-platform compatibility on both iOS and Android devices.
+
 **State Management:** Utilizes efficient state management techniques like Provider or Bloc to manage the UI and ensure seamless transitions across different pages.
+
 **UI Design:** The app follows modern UI design principles, providing users with a visually appealing interface that is easy to navigate.
+
 **API Integration:** Real-time movie data, showtimes, and booking options are fetched using APIs to ensure up-to-date information.
+
 **Responsive Design:** The app is designed to provide an optimal viewing experience across various screen sizes.
